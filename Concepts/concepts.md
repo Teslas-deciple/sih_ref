@@ -4,18 +4,20 @@
  <summary>You Only Looks Once
   The YOLO algorithm operates by dividing the input image into an S×SS×S grid. Each grid cell is responsible for predicting bounding boxes and class probabilities for objects whose centers fall within that cell. Here’s a breakdown of the key steps involved:
 
-    * Grid Division: The image is segmented into a grid, where each cell predicts bounding boxes and class probabilities.
-    * Bounding Box Prediction: Each grid cell predicts BB bounding boxes, each with a confidence score that indicates the likelihood of an object being present and how accurate the box is.
-    * Class Probability Prediction: Alongside bounding boxes, each grid cell also predicts class probabilities for the objects.
-    * Non-Max Suppression (NMS): After generating predictions, NMS is applied to eliminate overlapping boxes, retaining only those with the highest confidence scores.
+    - Grid Division: The image is segmented into a grid, where each cell predicts bounding boxes and class probabilities.
+    - Bounding Box Prediction: Each grid cell predicts BB bounding boxes, each with a confidence score that indicates the likelihood of an object being present and how accurate the box is.
+    - Class Probability Prediction: Alongside bounding boxes, each grid cell also predicts class probabilities for the objects.
+    - Non-Max Suppression (NMS): After generating predictions, NMS is applied to eliminate overlapping boxes, retaining only those with the highest confidence scores.
 </summary>
 </details>
 
 
-# R-CNN Region based Convolution Neural Network (R-CNN)
+# R-CNN 
 
 <details>
-<summary>What is a Convolutional Neural Network (CNN)?
+<summary>Region based Convolution Neural Network (R-CNN)
+ 
+ ### What is a Convolutional Neural Network (CNN)?
  A Convolutional Neural Network (CNN) is a specialized type of deep learning algorithm that is particularly well-suited for image recognition and processing tasks[1][2][3][4]. It is inspired by the structure of the human visual cortex and has a hierarchical architecture that allows it to learn and extract features from images at different scales[1][2].
 
 CNNs are made up of multiple layers, including convolutional layers, pooling layers, and fully connected layers[1][2][3]. The key components of a CNN are:
@@ -60,7 +62,7 @@ CNNs have a wide range of applications due to their effectiveness in processing 
 - Versatility in application to various domains beyond images, such as natural language processing and time series analysis[3]
 
  ## R-CNN
-R-CNN (Region-based Convolutional Neural Network) is a pioneering deep learning object detection algorithm that combines the power of convolutional neural networks (CNNs)
+ R-CNN (Region-based Convolutional Neural Network) is a pioneering deep learning object detection algorithm that combines the power of convolutional neural networks (CNNs)
 </summary>
 </details>
 
