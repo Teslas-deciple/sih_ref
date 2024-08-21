@@ -15,10 +15,8 @@ The YOLO algorithm operates by dividing the input image into an S×SS×S grid. E
 # R-CNN Region based Convolution Neural Network (R-CNN)
 
 <details>
-<summary>
-### What is a Convolutional Neural Network (CNN)?
-
-A Convolutional Neural Network (CNN) is a specialized type of deep learning algorithm that is particularly well-suited for image recognition and processing tasks[1][2][3][4]. It is inspired by the structure of the human visual cortex and has a hierarchical architecture that allows it to learn and extract features from images at different scales[1][2].
+<summary>What is a Convolutional Neural Network (CNN)?
+ A Convolutional Neural Network (CNN) is a specialized type of deep learning algorithm that is particularly well-suited for image recognition and processing tasks[1][2][3][4]. It is inspired by the structure of the human visual cortex and has a hierarchical architecture that allows it to learn and extract features from images at different scales[1][2].
 
 CNNs are made up of multiple layers, including convolutional layers, pooling layers, and fully connected layers[1][2][3]. The key components of a CNN are:
 
@@ -68,9 +66,9 @@ R-CNN (Region-based Convolutional Neural Network) is a pioneering deep learning 
 
  # SUMO
   ```
-  Simulation of Urban MObility
+  
 <details>
-<summary>
+<summary>Simulation of Urban MObility
 
   SUMO (Simulation of Urban MObility) is an open-source, highly portable, and flexible traffic simulation software designed to model the movement of vehicles and pedestrians in urban environments. It is widely used for traffic management, urban planning, and the development of intelligent transportation systems.
 
