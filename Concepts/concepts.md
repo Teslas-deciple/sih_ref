@@ -1,8 +1,8 @@
-# YOLO - You Only Looks Once
+# YOLO
 
 <details>
- <summary>
-The YOLO algorithm operates by dividing the input image into an S×SS×S grid. Each grid cell is responsible for predicting bounding boxes and class probabilities for objects whose centers fall within that cell. Here’s a breakdown of the key steps involved:
+ <summary>You Only Looks Once
+  The YOLO algorithm operates by dividing the input image into an S×SS×S grid. Each grid cell is responsible for predicting bounding boxes and class probabilities for objects whose centers fall within that cell. Here’s a breakdown of the key steps involved:
 
     * Grid Division: The image is segmented into a grid, where each cell predicts bounding boxes and class probabilities.
     * Bounding Box Prediction: Each grid cell predicts BB bounding boxes, each with a confidence score that indicates the likelihood of an object being present and how accurate the box is.
