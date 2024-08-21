@@ -2,7 +2,7 @@
   Reference Links
 </h2>
 
-* `https://github.com/aaronseq12/AITrafficManagementSystem`
+* https://github.com/aaronseq12/AITrafficManagementSystem
 
 * https://indiaai.gov.in/article/ai-initiatives-by-indian-state-governments-for-traffic-management-and-road-safety
 
