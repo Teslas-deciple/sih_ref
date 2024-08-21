@@ -1,0 +1,11 @@
+<details>
+<summary><h3>
+- <b>YOLO - `You Only Look Once`</b>
+</h3></summary>
+<h3 align="center">
+    YOLO is a real time object detection algorithm, which is known for its accuracy with minimal background errors it process images at an impressive 45 frames per second
+</h3>
+
+
+R-CNN - Region based Convolution Neural Network (R-CNN)
+SUMO - Simulation of Urban MObility
