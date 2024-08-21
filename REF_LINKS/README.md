@@ -1,5 +1,6 @@
-
-###Reference Links
+<h2 align="center">
+  Reference Links
+</h2>
 
 https://github.com/aaronseq12/AITrafficManagementSystem
 
