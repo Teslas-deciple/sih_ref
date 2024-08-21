@@ -1,9 +1,9 @@
-YOLO - You Only Looks Once
+# YOLO - You Only Looks Once
 <pre>
 YOLO is a real time object detection algorithm, which is known for its accuracy with minimal background errors it process images at an impressive 45 frames per second
 </pre>
 
-R-CNN - Region based Convolution Neural Network (R-CNN)
+<b> R-CNN - Region based Convolution Neural Network (R-CNN) </b>
 
 ## What is a Convolutional Neural Network (CNN)?
 
@@ -50,8 +50,10 @@ CNNs have a wide range of applications due to their effectiveness in processing 
 - Availability of pre-trained models that can be fine-tuned for new tasks with little data[3]
 - Versatility in application to various domains beyond images, such as natural language processing and time series analysis[3]
 
+ ## R-CNN
+R-CNN (Region-based Convolutional Neural Network) is a pioneering deep learning object detection algorithm that combines the power of convolutional neural networks (CNNs)
 
-SUMO
+ ### SUMO
   ```
   Simulation of Urban MObility
   ```
