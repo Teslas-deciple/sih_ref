@@ -70,6 +70,7 @@ CNNs have a wide range of applications due to their effectiveness in processing 
 <details>
 <summary>Simulation of Urban MObility</summary>
 
+
   SUMO (Simulation of Urban MObility) is an open-source, highly portable, and flexible traffic simulation software designed to model the movement of vehicles and pedestrians in urban environments. It is widely used for traffic management, urban planning, and the development of intelligent transportation systems.
 
  Key Features of SUMO
