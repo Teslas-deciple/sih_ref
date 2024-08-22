@@ -60,11 +60,11 @@ CNNs have a wide range of applications due to their effectiveness in processing 
 - Translation-invariant characteristics that allow identifying patterns regardless of position or orientation[3]
 - Availability of pre-trained models that can be fine-tuned for new tasks with little data[3]
 - Versatility in application to various domains beyond images, such as natural language processing and time series analysis[3]
-</details>
+
 
  ## R-CNN
  R-CNN (Region-based Convolutional Neural Network) is a pioneering deep learning object detection algorithm that combines the power of convolutional neural networks (CNNs)
-
+</details>
 
  # SUMO
 <details>
