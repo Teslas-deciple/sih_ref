@@ -1,9 +1,7 @@
 # YOLO
 
 <details>
- <summary>
-
-You Only Looks Once.
+ <summary>You Only Looks Once</summary>
 
   The YOLO algorithm operates by dividing the input image into an S×SS×S grid. Each grid cell is responsible for predicting bounding boxes and class probabilities for objects whose centers fall within that cell. Here’s a breakdown of the key steps involved:
 
@@ -11,14 +9,13 @@ You Only Looks Once.
     - Bounding Box Prediction: Each grid cell predicts BB bounding boxes, each with a confidence score that indicates the likelihood of an object being present and how accurate the box is.
     - Class Probability Prediction: Alongside bounding boxes, each grid cell also predicts class probabilities for the objects.
     - Non-Max Suppression (NMS): After generating predictions, NMS is applied to eliminate overlapping boxes, retaining only those with the highest confidence scores.
-    </summary>
 </details>
 
 
 # R-CNN 
 
 <details>
- <summary>Region based Convolution Neural Network (R-CNN)
+ <summary>Region based Convolution Neural Network (R-CNN)</summary>
  
  ### What is a Convolutional Neural Network (CNN)?
  A Convolutional Neural Network (CNN) is a specialized type of deep learning algorithm that is particularly well-suited for image recognition and processing tasks[1][2][3][4]. It is inspired by the structure of the human visual cortex and has a hierarchical architecture that allows it to learn and extract features from images at different scales[1][2].
@@ -63,23 +60,22 @@ CNNs have a wide range of applications due to their effectiveness in processing 
 - Translation-invariant characteristics that allow identifying patterns regardless of position or orientation[3]
 - Availability of pre-trained models that can be fine-tuned for new tasks with little data[3]
 - Versatility in application to various domains beyond images, such as natural language processing and time series analysis[3]
+</details>
 
  ## R-CNN
  R-CNN (Region-based Convolutional Neural Network) is a pioneering deep learning object detection algorithm that combines the power of convolutional neural networks (CNNs)
- </summary>
-</details>
+
 
  # SUMO
 <details>
-<summary>Simulation of Urban MObility.
+<summary>Simulation of Urban MObility</summary>
 
   SUMO (Simulation of Urban MObility) is an open-source, highly portable, and flexible traffic simulation software designed to model the movement of vehicles and pedestrians in urban environments. It is widely used for traffic management, urban planning, and the development of intelligent transportation systems.
 
  Key Features of SUMO
 
-    Traffic Simulation: SUMO simulates the behavior of individual vehicles and pedestrians, allowing for the analysis of traffic flow and congestion in urban areas.
-    Multi-modal Transport: The software supports various modes of transport, including cars, buses, bicycles, and pedestrians, enabling comprehensive mobility studies.
-    Dynamic Traffic Management: SUMO can integrate with real-time traffic data and adaptive traffic light control algorithms to optimize traffic flow and reduce congestion.
-    Routing Algorithms: It includes several routing algorithms, such as Dijkstra, A*, and CHWrapper, which help determine the best paths for vehicles based on various parameters like travel time and distance
-</summary>
+    1.Traffic Simulation: SUMO simulates the behavior of individual vehicles and pedestrians, allowing for the analysis of traffic flow and congestion in urban areas.
+    2.Multi-modal Transport: The software supports various modes of transport, including cars, buses, bicycles, and pedestrians, enabling comprehensive mobility studies.
+    3.Dynamic Traffic Management: SUMO can integrate with real-time traffic data and adaptive traffic light control algorithms to optimize traffic flow and reduce congestion.
+    4.Routing Algorithms: It includes several routing algorithms, such as Dijkstra, A*, and CHWrapper, which help determine the best paths for vehicles based on various parameters like travel time and distance
 </details>
