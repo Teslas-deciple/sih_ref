@@ -74,8 +74,8 @@ CNNs have a wide range of applications due to their effectiveness in processing 
 
  Key Features of SUMO
 
-    1.Traffic Simulation: SUMO simulates the behavior of individual vehicles and pedestrians, allowing for the analysis of traffic flow and congestion in urban areas.
-    2.Multi-modal Transport: The software supports various modes of transport, including cars, buses, bicycles, and pedestrians, enabling comprehensive mobility studies.
-    3.Dynamic Traffic Management: SUMO can integrate with real-time traffic data and adaptive traffic light control algorithms to optimize traffic flow and reduce congestion.
-    4.Routing Algorithms: It includes several routing algorithms, such as Dijkstra, A*, and CHWrapper, which help determine the best paths for vehicles based on various parameters like travel time and distance
+    1.`Traffic Simulation:` SUMO simulates the behavior of individual vehicles and pedestrians, allowing for the analysis of traffic flow and congestion in urban areas.
+    2.`Multi-modal Transport:` The software supports various modes of transport, including cars, buses, bicycles, and pedestrians, enabling comprehensive mobility studies.
+    3.`Dynamic Traffic Management:` SUMO can integrate with real-time traffic data and adaptive traffic light control algorithms to optimize traffic flow and reduce congestion.
+    4.`Routing Algorithms:` It includes several routing algorithms, such as Dijkstra, A*, and CHWrapper, which help determine the best paths for vehicles based on various parameters like travel time and distance
 </details>
